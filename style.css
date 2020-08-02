@@ -45,5 +45,17 @@ button {
 
 #display {
     background-color: #ff6347;
+    margin: 0;
     color: #000;
+}
+
+.single-entry-div {
+    margin: 1em 0;
+    background-color: #e4dcde;
+}
+
+.single-entry-button {
+    background-color: #000;
+    padding: 0.5em;
+    margin: 0 1em;
 }
