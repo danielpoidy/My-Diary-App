@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    text-align: center;
+    font-family: cursive;
+}
+
+header {
+    background-color: #51e2f5;
+    padding: 10px;
+    margin-bottom: 1em;
+    color: #FFF;
+    text-align: center;
+    font-size: 30px;
+    /*color: #ffa8B6;    Dusty White: #edf756   Dark Sand: #a28089*/
+}
+
+#text-input {
+    width: 25em;
+    height: 10em;
+    background-color: #e4dcde;
+    border: unset;
+    padding: 2em;
+    border-radius: 2em;
+    margin-bottom: 1em;
+}
+
+#text-input:focus {
+    outline: none;
+    box-shadow: 0px 0px 2px #000;
+}
+
+button {
+    font-size: 1em;
+    padding: 1em 2em;
+    border-radius: 1em;
+    background-color: #51e2f5;
+    margin-bottom: 1em;
+    color: #FFF;
+    font-weight: bold;
+}
+
+#display {
+    background-color: #ff6347;
+    color: #000;
+}
